@@ -1,15 +1,15 @@
 {
 "posts":[
 {"id":1, "Documento": "Factura","codigo":"46767345","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":2, "Documento": "Nota de débito","codigo":"20184904","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":3, "Documento": "Factura","codigo":"10978684","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":4, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":5, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":6, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":7, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":8, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":9, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
-{"id":10, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"}
+{"id":2, "Documento": "Nota de débito","codigo":"20184904","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"IMPULSO"},
+{"id":3, "Documento": "Factura","codigo":"10978684","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pagado","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
+{"id":4, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"vencido","importe":"s/45,456.32","saldo":"s/39,464.32","percepcion":"s/0.00","negocio":"SOLUCIONES"},
+{"id":5, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/45,136.32","percepcion":"s/0.00","negocio":"CORE"},
+{"id":6, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":"s/45,456.32","saldo":"s/544,123.32","percepcion":"s/0.00","negocio":"VALUES"},
+{"id":7, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pagado","importe":"s/45,456.32","saldo":"s/39,136.32","percepcion":"s/0.00","negocio":"VALUES"},
+{"id":8, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pagado","importe":"s/45,456.32","saldo":"s/643,111.32","percepcion":"s/0.00","negocio":"IMPULSO"},
+{"id":9, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"vencido","importe":"s/45,456.32","saldo":"s/34,232.32","percepcion":"s/0.00","negocio":"CORE"},
+{"id":10, "Documento": "Nota de débito","codigo":"11793903","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pagado","importe":"s/45,456.32","saldo":"s/65,136.32","percepcion":"s/0.00","negocio":"SOLUCIONES"}
 ],
 "comments": [
 { "id": 1, "body": "some comment", "postId": 1 },
