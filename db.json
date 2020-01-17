@@ -1,6 +1,6 @@
 {
 "posts":[
-{"id":1, "Documento": "Factura","codigo":"1111111","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":455,"saldo":32,"percepcion":0,"negocio":"VALUES"},
+{"id":1, "Documento": "Factura","codigo":"1111111","emision":"01/02/2020","vencimiento":05/12/2020,"atraso":"0","estado":"pendiente","importe":455,"saldo":32,"percepcion":0,"negocio":"VALUES"},
 {"id":2, "Documento": "Nota de crédito","codigo":"2222222","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pendiente","importe":619,"saldo":15,"percepcion":0,"negocio":"IMPULSO"},
 {"id":3, "Documento": "Factura","codigo":"6456345","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"pagado","importe":100,"saldo":75,"percepcion":0,"negocio":"VALUES"},
 {"id":4, "Documento": "Nota de débito","codigo":"2346745","emision":"01/02/2020","vencimiento":"05/12/2020","atraso":"0","estado":"vencido","importe":435,"saldo":10,"percepcion":0,"negocio":"SOLUCIONES"},
