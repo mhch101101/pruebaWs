@@ -7,7 +7,7 @@
 {"id":5, "Documento": "Nota de crédito","codigo":"5423436","emision":"01/02/2020","vencimiento":"11/01/2020","atraso":"0","estado":"pendiente","importe":716,"saldo":64,"percepcion":0,"negocio":"CORE"},
 {"id":6, "Documento": "Nota de débito","codigo":"8976576","emision":"01/02/2020","vencimiento":"27/01/2020","atraso":"0","estado":"pendiente","importe":486,"saldo":34,"percepcion":0,"negocio":"VALUES"},
 {"id":7, "Documento": "Factura","codigo":"2327824","emision":"01/02/2020","vencimiento":"07/01/2020","atraso":"0","estado":"pagado","importe":725,"saldo":20,"percepcion":0,"negocio":"VALUES"},
-{"id":8, "Documento": "Nota de crédito","codigo":"2575272","emision":"01/02/2020","vencimiento":"17/01/2020","atraso":"0","estado":"pagado","importe":844,"saldo":34,"percepcion":0,"negocio":"IMPULSO"},
+{"id":8, "Documento": "Nota de crédito","codigo":"2575272","emision":"01/02/2020","vencimiento":"20/01/2020","atraso":"0","estado":"pagado","importe":844,"saldo":34,"percepcion":0,"negocio":"IMPULSO"},
 {"id":9, "Documento": "Factura","codigo":"7549128","emision":"01/02/2020","vencimiento":"03/01/2020","atraso":"0","estado":"vencido","importe":234,"saldo":51,"percepcion":0,"negocio":"CORE"},
 {"id":10, "Documento": "Nota de débito","codigo":"2774298","emision":"01/02/2020","vencimiento":"23/01/2020","atraso":"0","estado":"pagado","importe":574,"saldo":70,"percepcion":0,"negocio":"SOLUCIONES"}
 ],
