@@ -1,15 +1,15 @@
 {
 "posts":[
-{"id":1, "Documento": "Factura","codigo":"1111111","emision":"01/02/2020","vencimiento":"12/01/2020","atraso":"0","estado":"pendiente","importe":455,"saldo":32,"percepcion":0,"negocio":"VALUES"},
-{"id":2, "Documento": "Nota de crédito","codigo":"2222222","emision":"01/02/2020","vencimiento":"31/01/2020","atraso":"0","estado":"pendiente","importe":619,"saldo":15,"percepcion":0,"negocio":"IMPULSO"},
-{"id":3, "Documento": "Factura","codigo":"6456345","emision":"01/02/2020","vencimiento":"03/01/2020","atraso":"0","estado":"pagado","importe":100,"saldo":75,"percepcion":0,"negocio":"VALUES"},
-{"id":4, "Documento": "Nota de débito","codigo":"2346745","emision":"01/02/2020","vencimiento":"05/02/2020","atraso":"0","estado":"vencido","importe":435,"saldo":10,"percepcion":0,"negocio":"SOLUCIONES"},
-{"id":5, "Documento": "Nota de crédito","codigo":"5423436","emision":"01/02/2020","vencimiento":"11/01/2020","atraso":"0","estado":"pendiente","importe":716,"saldo":64,"percepcion":0,"negocio":"CORE"},
-{"id":6, "Documento": "Nota de débito","codigo":"8976576","emision":"01/02/2020","vencimiento":"29/01/2020","atraso":"0","estado":"pendiente","importe":486,"saldo":34,"percepcion":0,"negocio":"VALUES"},
-{"id":7, "Documento": "Factura","codigo":"2327824","emision":"01/02/2020","vencimiento":"07/01/2020","atraso":"0","estado":"pagado","importe":725,"saldo":20,"percepcion":0,"negocio":"VALUES"},
-{"id":8, "Documento": "Nota de crédito","codigo":"2575272","emision":"01/02/2020","vencimiento":"20/01/2020","atraso":"0","estado":"pagado","importe":844,"saldo":34,"percepcion":0,"negocio":"IMPULSO"},
-{"id":9, "Documento": "Factura","codigo":"7549128","emision":"01/02/2020","vencimiento":"03/01/2020","atraso":"0","estado":"vencido","importe":234,"saldo":51,"percepcion":0,"negocio":"CORE"},
-{"id":10, "Documento": "Nota de débito","codigo":"2774298","emision":"01/02/2020","vencimiento":"30/01/2020","atraso":"0","estado":"pagado","importe":574,"saldo":70,"percepcion":0,"negocio":"SOLUCIONES"}
+{"id":1, "Documento": "Factura","codigo":"1111111","emision":"2020-02-01","vencimiento":"2020-01-12","atraso":"0","estado":"pendiente","importe":455,"saldo":32,"percepcion":0,"negocio":"VALUES"},
+{"id":2, "Documento": "Nota de crédito","codigo":"2222222","emision":"2020-02-01","vencimiento":"2020-01-31","atraso":"0","estado":"pendiente","importe":619,"saldo":15,"percepcion":0,"negocio":"IMPULSO"},
+{"id":3, "Documento": "Factura","codigo":"6456345","emision":"2020-06-03","vencimiento":"2020-01-03","atraso":"0","estado":"pagado","importe":100,"saldo":75,"percepcion":0,"negocio":"VALUES"},
+{"id":4, "Documento": "Nota de débito","codigo":"2346745","emision":"2020-01-01","vencimiento":"2020-02-05","atraso":"0","estado":"vencido","importe":435,"saldo":10,"percepcion":0,"negocio":"SOLUCIONES"},
+{"id":5, "Documento": "Nota de crédito","codigo":"5423436","emision":"2020-02-02","vencimiento":"2020-01-11","atraso":"0","estado":"pendiente","importe":716,"saldo":64,"percepcion":0,"negocio":"CORE"},
+{"id":6, "Documento": "Nota de débito","codigo":"8976576","emision":"2020-02-01","vencimiento":"2020-01-29","atraso":"0","estado":"pendiente","importe":486,"saldo":34,"percepcion":0,"negocio":"VALUES"},
+{"id":7, "Documento": "Factura","codigo":"2327824","emision":"2020-02-01","vencimiento":"2020-01-07","atraso":"0","estado":"pagado","importe":725,"saldo":20,"percepcion":0,"negocio":"VALUES"},
+{"id":8, "Documento": "Nota de crédito","codigo":"2575272","emision":"2020-02-01","vencimiento":"2020-01-20","atraso":"0","estado":"pagado","importe":844,"saldo":34,"percepcion":0,"negocio":"IMPULSO"},
+{"id":9, "Documento": "Factura","codigo":"7549128","emision":"2020-02-01","vencimiento":"2020-01-03","atraso":"0","estado":"vencido","importe":234,"saldo":51,"percepcion":0,"negocio":"CORE"},
+{"id":10, "Documento": "Nota de débito","codigo":"2774298","emision":"2020-02-01","vencimiento":"2020-01-30","atraso":"0","estado":"pagado","importe":574,"saldo":70,"percepcion":0,"negocio":"SOLUCIONES"}
 ],
 "comments": [
 { "id": 1, "body": "some comment", "postId": 1 },
