@@ -10,7 +10,12 @@
 {"id":8, "Documento": "Nota de crédito","codigo":"2575272","emision":"2020-02-01","vencimiento":"2020-01-20","atraso":"0","estado":"pagado","importe":844,"saldo":34,"percepcion":3,"negocio":"IMPULSO"},
 {"id":9, "Documento": "Factura","codigo":"7549128","emision":"2020-02-01","vencimiento":"2020-01-03","atraso":"0","estado":"vencido","importe":234,"saldo":51,"percepcion":5,"negocio":"CORE"},
 {"id":10, "Documento": "Nota de débito","codigo":"2774298","emision":"2020-02-01","vencimiento":"2020-01-30","atraso":"5","estado":"pagado","importe":574,"saldo":70,"percepcion":0,"negocio":"SOLUCIONES"},
-{"id":11, "Documento": "Factura","codigo":"1234567","emision":"2020-04-01","vencimiento":"2020-01-21","atraso":"1","estado":"pagado","importe":43,"saldo":13,"percepcion":3,"negocio":"IMPULSO"}
+{"id":11, "Documento": "Factura","codigo":"1234567","emision":"2020-04-01","vencimiento":"2020-01-21","atraso":"1","estado":"pagado","importe":43,"saldo":13,"percepcion":3,"negocio":"IMPULSO"},
+{"id":12, "Documento": "Nota de débito","codigo":"23435745","emision":"2020-01-01","vencimiento":"2020-02-05","atraso":"0","estado":"vencido","importe":435,"saldo":4,"percepcion":4,"negocio":"CORE"},
+{"id":13, "Documento": "Factura","codigo":"5153745","emision":"2020-01-01","vencimiento":"2020-02-06","atraso":"0","estado":"vencido","importe":435,"saldo":27,"percepcion":3,"negocio":"SOLUCIONES"},
+{"id":14, "Documento": "Nota de débito","codigo":"44423745","emision":"2020-01-01","vencimiento":"2020-02-03","atraso":"0","estado":"vencido","importe":435,"saldo":7,"percepcion":6,"negocio":"IMPULSO"},
+{"id":15, "Documento": "Factura","codigo":"2346235","emision":"2020-01-01","vencimiento":"2020-02-07","atraso":"0","estado":"vencido","importe":435,"saldo":32,"percepcion":0,"negocio":"SOLUCIONES"},
+{"id":16, "Documento": "Factura","codigo":"1346734","emision":"2020-01-01","vencimiento":"2020-02-09","atraso":"0","estado":"vencido","importe":435,"saldo":7,"percepcion":2,"negocio":"VALUES"}
 ],
 "comments": [
 { "id": 1, "body": "some comment", "postId": 1 },
